@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "ALX"
+^C
+
+clear
+root@a1a7bfed7b81:/alx-pre_course/0x01-git/bash# clear
+#!/bin/bash
+echo "School"
+echo "ALX"
+
